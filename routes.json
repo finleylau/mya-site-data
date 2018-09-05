@@ -28,14 +28,6 @@
       {
         "url": "contact",
         "navtitle": "Contact"
-      },
-      {
-        "navtitle": "hi",
-        "url": "hi"
-      },
-      {
-        "navtitle": "test",
-        "url": "test"
       }
     ],
     "support": [
