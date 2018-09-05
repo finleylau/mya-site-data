@@ -19307,7 +19307,7 @@
       "media": {
         "type": "image",
         "src": "/img/volunteerPlaceholder.jpg",
-        "imgClass": "image80percent centeredImage"
+        "imgClass": "image80percent"
       }
     }
   },
