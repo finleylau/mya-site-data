@@ -18123,11 +18123,6 @@
     },
     "wishlist": {
       "templateID": 4,
-      "media": {
-        "type": "image",
-        "src": "/img/wishlistPlaceholder.jpg",
-        "imgClass": "centeredImage"
-      },
       "title": {
         "blocks": [
           {
@@ -18386,6 +18381,11 @@
           }
         ],
         "entityMap": {}
+      },
+      "media": {
+        "type": "image",
+        "src": "/img/wishlistPlaceholder.jpg",
+        "imgClass": "centeredImage"
       }
     },
     "give": {
