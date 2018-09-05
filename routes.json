@@ -28,6 +28,10 @@
       {
         "url": "contact",
         "navtitle": "Contact"
+      },
+      {
+        "navtitle": "hi",
+        "url": "hi"
       }
     ],
     "support": [
