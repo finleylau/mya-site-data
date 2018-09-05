@@ -5079,6 +5079,9 @@
     },
     "testsite": {
       "templateID": 0
+    },
+    "testing": {
+      "templateID": 0
     }
   },
   "programs": {
