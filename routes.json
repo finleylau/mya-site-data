@@ -40,6 +40,10 @@
       {
         "navtitle": "testing",
         "url": "testing"
+      },
+      {
+        "navtitle": "testingone",
+        "url": "testingone"
       }
     ],
     "support": [
