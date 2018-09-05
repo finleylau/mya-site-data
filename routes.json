@@ -40,6 +40,10 @@
       {
         "navtitle": "Hi",
         "url": "hi"
+      },
+      {
+        "navtitle": "hello",
+        "url": "hello"
       }
     ],
     "support": [

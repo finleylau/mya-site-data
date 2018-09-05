@@ -5085,6 +5085,9 @@
     },
     "testingone": {
       "templateID": 0
+    },
+    "hello": {
+      "templateID": 0
     }
   },
   "programs": {
