@@ -32,6 +32,10 @@
       {
         "url": "news",
         "navtitle": "News"
+      },
+      {
+        "navtitle": "test",
+        "url": "test"
       }
     ],
     "support": [
