@@ -3618,11 +3618,6 @@
       }
     },
     "directions": {
-      "media": {
-        "src": "/img/MYABuilding.jpg",
-        "imgClass": "centeredImage",
-        "type": "image"
-      },
       "title": {
         "blocks": [
           {
@@ -3700,6 +3695,11 @@
           }
         ],
         "entityMap": {}
+      },
+      "media": {
+        "src": "/img/MYABuilding.jpg",
+        "imgClass": "centeredImage",
+        "type": "image"
       }
     },
     "aboutMYAC": {
