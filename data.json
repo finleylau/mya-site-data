@@ -5076,6 +5076,9 @@
     },
     "hi": {
       "templateID": 0
+    },
+    "testsite": {
+      "templateID": 0
     }
   },
   "programs": {
