@@ -1,0 +1,282 @@
+{
+  "mainRoutes": {
+    "about": [
+      {
+        "url": "aboutMYAC",
+        "navtitle": "About MYAC"
+      },
+      {
+        "url": "faculty",
+        "navtitle": "Faculty"
+      },
+      {
+        "navtitle": "Board of Directors",
+        "url": "board"
+      },
+      {
+        "url": "ypb",
+        "navtitle": "YPB"
+      },
+      {
+        "url": "directions",
+        "navtitle": "Directions"
+      },
+      {
+        "url": "accountability",
+        "navtitle": "Accountability"
+      },
+      {
+        "url": "contact",
+        "navtitle": "Contact"
+      },
+      {
+        "url": "news",
+        "navtitle": "News"
+      }
+    ],
+    "support": [
+      {
+        "url": "donate",
+        "navtitle": "Donate"
+      },
+      {
+        "url": "gala",
+        "navtitle": "Gala"
+      },
+      {
+        "url": "give",
+        "navtitle": "Ways to Give"
+      },
+      {
+        "url": "volunteer",
+        "navtitle": "Volunteer"
+      },
+      {
+        "url": "donors",
+        "navtitle": "Our Donors"
+      },
+      {
+        "url": "wishlist",
+        "navtitle": "Wish List"
+      }
+    ],
+    "events": [
+      {
+        "url": "",
+        "navtitle": "Calendar"
+      },
+      {
+        "url": "tickets",
+        "navtitle": "Tickets"
+      },
+      {
+        "url": "competitions",
+        "navtitle": "Competitions"
+      },
+      {
+        "url": "festivals",
+        "navtitle": "Festivals"
+      }
+    ],
+    "programs": [
+      {
+        "url": "audition",
+        "navtitle": "Audition"
+      },
+      {
+        "url": "orchestras",
+        "navtitle": "Orchestras"
+      },
+      {
+        "url": "jazz",
+        "navtitle": "Jazz"
+      },
+      {
+        "url": "choral",
+        "navtitle": "Choral"
+      },
+      {
+        "navtitle": "Chamber Music",
+        "url": "chamber"
+      },
+      {
+        "url": "yms",
+        "navtitle": "YMS"
+      },
+      {
+        "url": "earlychildhood",
+        "navtitle": "Early Childhood"
+      },
+      {
+        "url": "summer",
+        "navtitle": "Summer Programs"
+      },
+      {
+        "navtitle": "Private Lessons",
+        "url": "privatelessons"
+      }
+    ]
+  },
+  "subRoutes": {
+    "about": [],
+    "support": [],
+    "partner": [
+      {
+        "navtitle": "Partner with Us",
+        "url": "home"
+      },
+      {
+        "navtitle": "Advertise with Us",
+        "url": "advertise"
+      },
+      {
+        "navtitle": "Hire an Ensemble",
+        "url": "hireensemble"
+      },
+      {
+        "navtitle": "Rent Facilities",
+        "url": "rent"
+      }
+    ],
+    "events": [
+      {
+        "url": "competitions/walgreens",
+        "navtitle": "Walgreens"
+      },
+      {
+        "url": "competitions/discover",
+        "navtitle": "Discover"
+      }
+    ],
+    "programs": [
+      {
+        "navtitle": "Evening Orchestra",
+        "url": "summer/eveningorchestra"
+      },
+      {
+        "navtitle": "Flute Workshop",
+        "url": "summer/fluteworkshop"
+      },
+      {
+        "navtitle": "Vocal Bootcamp",
+        "url": "summer/vocalbootcamp"
+      },
+      {
+        "navtitle": "Trumpet Workshop",
+        "url": "summer/trumpetworkshop"
+      },
+      {
+        "navtitle": "Jazz Workshop",
+        "url": "summer/jazzworkshop"
+      },
+      {
+        "navtitle": "Chamber Music Workshop",
+        "url": "summer/chamberworkshop"
+      },
+      {
+        "navtitle": "Orchestra Auditions",
+        "url": "audition/orchestra"
+      },
+      {
+        "navtitle": "Choral Auditions",
+        "url": "audition/choral"
+      },
+      {
+        "navtitle": "Jazz Auditions",
+        "url": "audition/jazz"
+      }
+    ],
+    "members": [
+      {
+        "navtitle": "Home",
+        "url": "home"
+      }
+    ],
+    "forms": [
+      {
+        "navtitle": "Donate",
+        "url": "donate"
+      },
+      {
+        "navtitle": "Intent to Participate",
+        "url": "intenttoparticipate"
+      },
+      {
+        "navtitle": "Audition",
+        "url": "audition"
+      },
+      {
+        "navtitle": "Summer Registration",
+        "url": "summerregistration"
+      },
+      {
+        "navtitle": "Payment",
+        "url": "payment"
+      },
+      {
+        "navtitle": "Music and Movement",
+        "url": "musicandmovement"
+      },
+      {
+        "navtitle": "Walgreens Competition",
+        "url": "walgreens"
+      },
+      {
+        "navtitle": "Discover Competition",
+        "url": "discover"
+      },
+      {
+        "navtitle": "Bass Festival",
+        "url": "bass"
+      },
+      {
+        "navtitle": "Double Reed Festival",
+        "url": "doublereed"
+      },
+      {
+        "navtitle": "Viola Festival",
+        "url": "viola"
+      },
+      {
+        "navtitle": "Work Study Application",
+        "url": "workstudy"
+      },
+      {
+        "navtitle": "Building Use",
+        "url": "buildinguse"
+      },
+      {
+        "navtitle": "Hire an Ensemble",
+        "url": "hireensemble"
+      },
+      {
+        "navtitle": "Alumni Update",
+        "url": "alumniupdate"
+      },
+      {
+        "navtitle": "YPB Application",
+        "url": "ypbapplication"
+      },
+      {
+        "navtitle": "Mini and Mighty Maestros Registration",
+        "url": "minimightyregistration"
+      },
+      {
+        "navtitle": "Reading Orchestra Registration",
+        "url": "readingregistration"
+      },
+      {
+        "navtitle": "Absence Form",
+        "url": "absence"
+      },
+      {
+        "navtitle": "Public Volunteer",
+        "url": "volunteer"
+      },
+      {
+        "navtitle": "Private Teaching",
+        "url": "privateteaching"
+      }
+    ]
+  }
+}
