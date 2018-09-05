@@ -2622,7 +2622,58 @@
   },
   "about": {
     "news": {
-      "templateID": 0
+      "title": {
+        "blocks": [
+          {
+            "key": "8gf86",
+            "text": "MYAC in the News",
+            "type": "unstyled",
+            "depth": 0,
+            "inlineStyleRanges": [
+              {
+                "offset": 0,
+                "length": 16,
+                "style": "fontfamily-Century Gothic"
+              },
+              {
+                "offset": 0,
+                "length": 16,
+                "style": "fontsize-30"
+              }
+            ],
+            "entityRanges": [],
+            "data": {}
+          }
+        ],
+        "entityMap": {}
+      },
+      "pressData": [
+        {
+          "title": "Michael Cameron - MYAC's Early and New Music Concert",
+          "date": "Nov. 26, 2017",
+          "link": "http://www.chicagomusicreport.com/blog/mya-shows-an-intimate-side"
+        },
+        {
+          "title": "Michael Cameron - MYAC Symphony Orchestra performs with Lang Lang International Young Scholars",
+          "date": "Sept. 8, 2017",
+          "link": "http://www.chicagomusicreport.com/blog/myac-and-lang-lang-scholars-thrill-pritzker-audience"
+        },
+        {
+          "title": "Michael Cameron - \"A Heroic Fifth of Mahler\"",
+          "date": "May 18, 2017",
+          "link": "http://www.chicagomusicreport.com/blog/archives/05-2017"
+        },
+        {
+          "title": "Michael Cameron - MYAC Symphony Orchestra performs Rachmaninoff",
+          "date": "Nov. 11, 2016",
+          "link": "http://www.chicagomusicreport.com/"
+        },
+        {
+          "title": "Alyssa Allgood, MYAC Jazz Coordinator - DownBeat Magazine",
+          "date": "Nov. 7, 2016",
+          "link": "https://mya.org/pdfs/Lang_Lang_with_Symphony_Orchestra.pdfDownbeatMagazineInterviewwithAlyssa"
+        }
+      ]
     },
     "contact": {
       "templateID": 2,
