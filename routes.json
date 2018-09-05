@@ -32,18 +32,6 @@
       {
         "url": "news",
         "navtitle": "News"
-      },
-      {
-        "navtitle": "test",
-        "url": "test"
-      },
-      {
-        "navtitle": "testing",
-        "url": "testing"
-      },
-      {
-        "navtitle": "Testingone",
-        "url": "testingone"
       }
     ],
     "support": [
