@@ -30,20 +30,8 @@
         "navtitle": "Contact"
       },
       {
-        "url": "news",
-        "navtitle": "News"
-      },
-      {
         "navtitle": "Test",
         "url": "test"
-      },
-      {
-        "navtitle": "hello",
-        "url": "hello"
-      },
-      {
-        "navtitle": "etsting",
-        "url": "testing"
       }
     ],
     "support": [
