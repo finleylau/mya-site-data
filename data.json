@@ -3716,6 +3716,11 @@
                 "offset": 0,
                 "length": 10,
                 "style": "fontsize-30"
+              },
+              {
+                "offset": 0,
+                "length": 10,
+                "style": "BOLD"
               }
             ],
             "entityRanges": [],
